@@ -1,0 +1,7 @@
+1. Create a snake body
+2. Move the snake
+3. Create snake food
+4. Consider the collision between the snake and the food
+5. Consider the collision between the snake and the wall
+6. Consider the collision between the snake and its tail
+7. Create the scoreboard for the game
